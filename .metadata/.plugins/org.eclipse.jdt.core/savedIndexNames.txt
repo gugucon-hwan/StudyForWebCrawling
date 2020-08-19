@@ -1,0 +1,20 @@
+INDEX VERSION 1.131+D:\WebCrawling\.metadata\.plugins\org.eclipse.jdt.core
+2754378254.index
+674644740.index
+167649591.index
+2620685167.index
+4070420868.index
+693960175.index
+1153187191.index
+457054038.index
+3446201230.index
+2493087671.index
+557013091.index
+2605337358.index
+2524142133.index
+582389194.index
+3024316752.index
+639737903.index
+591435373.index
+200510353.index
+4146252073.index
